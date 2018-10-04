@@ -3,8 +3,8 @@
 ## Getting started
 
 - Fork and clone repo
-- Install dependencies: `npm install`
 - cd into project directory
+- Install dependencies: `npm install`
 - Run tests: `npm run test:watch`
 - You can also check your test coverage: `npm run test:coverage`
 
