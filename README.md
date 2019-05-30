@@ -12,9 +12,6 @@
 
 In this lab, the code for a payments processor has been implemented, and your task is to write tests for each function:
 
-- `paymentService.js`
-  - write unit test for `makePayment`
-  - write unit test for `refundPayment`
 - `main.js`
   - a few sample test cases are already provided in `main.test.js`. You need to remove the `.skip` on the tests and implement them
   - Hint: you need to mock the functions from `paymentService` and `queueService` to simulate the test scenarios
